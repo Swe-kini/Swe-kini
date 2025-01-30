@@ -5,6 +5,7 @@
          
   ## About Me:
 - Graduated in Electronics and Communication Engineering.
+- Associate Software Engineer at Tarento
 
 
 ### Reach out to me
